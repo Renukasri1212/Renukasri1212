@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Renukasri1212
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning B.E Medical Electronics.
-- 💞️ I’m looking to collaborate on a software company.
+- 💞️ I’m looking to collaborate on a healthcare industry.
 - 📫 Reach me renukasri.k2002@gmail.com
 
 <!---
